@@ -142,7 +142,7 @@ primero
     <p><strong>Alimentos prohibidos:</strong> chocolate, cebolla, ajo, uvas, pasas y huesos cocidos.</p>
     <p>El agua fresca debe estar siempre disponible, ya que muchos gatos no beben suficiente y pueden desarrollar problemas urinarios.</p>
     <div class="imagenes">
-        <img src="https://images.unsplash.com/photo-1583511655857-d19b40a7a54e">
+        <img src="[https://images.unsplash.com/photo-1583511655857-d19b40a7a54e](https://images.unsplash.com/photo-1629760204040-7ca594ba99e8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)">
         <img src="https://images.unsplash.com/photo-1568640347023-a616a30bc3bd">
         <img src="https://images.unsplash.com/photo-1518717758536-85ae29035b6d">
     </div>
