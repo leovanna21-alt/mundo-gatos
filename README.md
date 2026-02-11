@@ -143,7 +143,7 @@ primero
     <p>El agua fresca debe estar siempre disponible, ya que muchos gatos no beben suficiente y pueden desarrollar problemas urinarios.</p>
     <div class="imagenes">
         <img src="https://images.unsplash.com/photo-1629760204040-7ca594ba99e8?q=80&w=1170&auto=format&fit=crop" alt="Gato doméstico" style="max-width:100%; height:auto;">
-        <img src="https://images.unsplash.com/photo-1568640347023-a616a30bc3bd">
+        <img src="https://images.unsplash.com/photo-1623903088094-dba345c6a7b1?q=80&w=736&auto=format&fit=crop" alt="Gato descansando" style="max-width:100%; height:auto;">
         <img src="https://images.unsplash.com/photo-1518717758536-85ae29035b6d">
     </div>
 </section>
