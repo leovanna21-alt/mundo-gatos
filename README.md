@@ -131,7 +131,8 @@ primero
     <div class="imagenes">
         <img src="https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13">
         <img src="https://images.unsplash.com/photo-1517457373958-b7bdd4587205">
-        <img src="https://images.unsplash.com/photo-1517849845537-4d257902454a">
+        <img src="https://images.unsplash.com/photo-1592194996308-7b43878e84a6?q=80&w=687&auto=format&fit=crop" alt="Gato descansando" style="max-width:100%; height:auto;">
+
     </div>
 </section>
 
